@@ -1,0 +1,114 @@
+body {
+  text-align: center;
+  background-color: rgb(60, 97, 69);
+  background-color: rgba(60, 97, 69, 0.93);
+}
+div.content {
+  margin: 0 auto;
+  display: inline-block;
+/*  align-content: center;
+  background-color: #0073b2;*/
+}
+
+div.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: block;
+    background-color: rgb(60, 97, 69);
+    background-color: rgba(6, 53, 17, 0.93);
+    z-index: 2000;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    height: 50px;
+    font-family: 'Oxygen', 'PT Sans Narrow', sans-serif;
+    color: #CFCDCF;
+    text-align: center;
+}
+
+header.sticky {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    display: block;
+    font-family: 'Oxygen', 'PT Sans Narrow', sans-serif;
+/*    background-color: rgba(6, 53, 17, 0.93); */
+    background-color: rgb(60, 97, 69);
+    background-color: rgba(60, 97, 69, 0.93);
+    z-index: 2000;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+
+    height: 50px;
+    font-family: 'Oxygen', 'PT Sans Narrow', sans-serif;
+    color: #CFCDCF;
+    text-align: center;
+    padding: 6px 0px 0 0;
+
+}
+span.menu-left {
+    position: absolute;
+    left: 10px;
+    align: left;
+}
+
+/*  webrates  */
+
+#webRateContainer {
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  padding: 40px 0px 0px 0px; /* sadly due to my placement on the page */
+  font-family: 'Oxygen', 'PT Sans Narrow', sans-serif;
+  /*
+  position: relative;
+  left: 0;
+  float: left;
+  width: 100%;
+
+  overflow: hidden;
+  */
+}
+#webRateContainer:after{
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+#webRateContainer:hover #webRates{
+    -webkit-animation-play-state: paused
+}
+#webRates {
+  white-space: nowrap;
+/* DISABLED  -webkit-animation: move_eye 6s linear 0s infinite normal; */
+}
+/* DISABLED
+@-webkit-keyframes move_eye {
+   from {
+       margin-left: 110%;
+   }
+   to {
+       margin-left:-250%;
+   }
+   90% {
+   }
+}
+*/
+div.webRate {
+ display:inline-block;
+}
+span.webRates {
+  color: #CFCDCF;
+  padding: 5px 10px 5px 10px;
+  white-space: nowrap;
+}

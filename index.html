@@ -1,5 +1,394 @@
-<html>
-<body>
-Very soon
-</body>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html" ng-app="webEr">
+  <head>
+    <title>WEBer Atelier</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="WEBer Atelier: Another outlet for code and inspiration from the founders of Sextant & Palette, Epik Shades of Grey" />
+    <meta name="keywords" content="hover effect, inspiration, grid, thumbnail, transition, subtle, web design" />
+    <meta name="author" content="Ked" />
+
+    <link rel="shortcut icon" href="favicon.ico" >
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+    <script>
+      var ieTags, el;
+      ieTags = ("abbr,article,aside,audio,canvas,datalist,details," +
+               "figure,footer,header,hgroup,mark,menu,meter,nav,output," +
+               "progress,section,time,video,svg").split(',');
+      for (var i = 0; i < ieTags.length; i++) {
+        el = document.createElement(ieTags[i]);
+//        alert(ieTags[i]);
+      }
+      </script>
+      <style>
+        svg {
+            background-color: #FFFFFF;
+            border: 1px solid #000000;
+            width: 10px;
+            height : 10px;
+        }
+      </style>
+    <![endif]-->
+
+<!--
+    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+    <!--[if IE]>
+<!--
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+
+    <link rel="stylesheet" type="text/css" href="css/figure-effects.css" />
+
+    <link rel="stylesheet" type="text/css" href="css/huisstijl.css" />
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+    <script src="/js/web-cartography-0.0.1.js"></script>
+
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+    <script src="/js/web-rates-0.0.2.js"></script>
+    <script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+
+<script type="application/javascript">
+//    (function(){
+
+        var app = angular.module('webEr', []);
+
+        app.controller('CurrencyCtrl', function($scope) {
+
+
+            var cntrl = this;
+            cntrl.currentBase = 0;
+            cntrl.currentInterval= 3;
+            cntrl.currencyStub = [
+                {cd: 'XXX', nm: 'Currency Data Unavailable', op: 0.0009, cl: 0.0009, hi: 0.0009, lo: 0.0009, sp: 0, el: null},
+                {cd: 'XTS', nm: 'Testing Currency Code', op: 0.0009, cl: 0.0009, hi: 0.0009, lo: 0.0009, sp: 0, el: null},
+                {cd: 'XTS', nm: 'Testing Currency Code', op: 1.0009, cl: 1.0009, hi: 0.0009, lo: 0.0009, sp: 0, el: null},
+                {cd: 'XTS', nm: 'Testing Currency Code', op: 2.0009, cl: 2.0009, hi: 0.0009, lo: 0.0009, sp: 0, el: null}
+            ];
+
+            cntrl.currenciesAll = webRates.rates; // | [];
+            cntrl.timestamp = Date.now(); // webRates.timestamp; // | Date.now();
+            cntrl.scrollingData = (webRates && webRates.rates.length > 0);
+
+
+
+
+
+            /**
+             * @method currentRates
+             * @description
+             * @returns {Array} representing a snapshot of data from the currenciesAll array
+             */
+
+            cntrl.currentRates = function(){
+              var ret = [],
+                  roof = cntrl.currentBase + cntrl.currentInterval;
+              for (i=cntrl.currentBase; i <= roof; i++) {
+                //drop roof when data runs out
+                if (i == cntrl.currenciesAll.length){
+                    console.log('i:' + i + ';');
+
+                    console.log('roof:' + roof);
+
+                  roof = roof-i+1;
+                    console.log('newRoof:' + roof + ';');
+                  i = cntrl.currentBase = 0;
+                    console.log(cntrl.currenciesAll[i]);
+                }
+                ret.push(cntrl.currenciesAll[i]);
+              }
+              return ret;
+            };
+
+            this.showInList = function(rate){
+              var currentRt = cntrl.currentRates();
+              return (currentRt.indexOf(rate) >= 0);
+            };
+
+//            cntrl.currencies = cntrl.currentRates();
+
+            window.setInterval(function(){
+                    // update goes here
+
+                if (!cntrl.scrollingData) return true;
+                cntrl.currentBase = (cntrl.currentBase > cntrl.currenciesAll.length) ? 0 : cntrl.currentBase + cntrl.currentInterval + 1 //increment pointers
+                cntrl.currencies = [];
+                cntrl.currencies = cntrl.currentRates() //update array of currencies
+                if (cntrl.currencies.length > 0)
+                    $scope.$apply();
+
+
+
+                //console.log(cntrl.currencies[0]);
+            }, 5000);
+        });
+ //   })();
+</script>
+<style>
+  figure.effect-sarah.ng-scope:hover ul {
+/* Works!!
+    opacity: 0;
+    -webkit-transform: translate3d(-100%,0,0);
+    transform: translate3d(-100%,0,0);
+*/
+  }
+  figure.effect-sarah.ng-scope figcaption {
+    padding:0.75em;
+  }
+/* COLORS TODO
+  ul.webRatesTicker > li:nth-child(1) {
+    background-color: rgba(168, 107, 104, 0.98);
+    background-color: rgba(60, 97, 69, 0.95);
+  }
+*/
+  ul.webRatesTicker > li:nth-child(n+2) {
+      display: none;
+      max-height: 0%;
+      -webkit-transition: all 1s linear 0.15s;
+      transition: all 1s linear 0.15s;
+  }
+  figure.effect-sarah.ng-scope:hover ul.webRatesTicker > li:nth-child(n+2) {
+      display: list-item;
+  }
+  ul.webRatesTicker {
+    list-style-image: none;
+    list-style-type: none;
+    list-style-position: outside;
+    font-size: 18px;
+    padding-left: 0px;
+    padding: 0em 0;
+
+    opacity: 1;
+/*
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+
+    -webkit-transition: opacity 0.75s, -webkit-transform 0.35s, max-height 0.35s;
+    transition: opacity 0.75s, transform 0.35s, max-height 0.35s;
+
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
+      -ms-transition: all 0.5s;
+      -o-transition: all 0.5s;
+      transition: all 0.5s;
+
+      transition-property: all;
+      transition-duration: 0.5s;
+      transition-timing-function: initial;
+      transition-delay: initial;
+      */
+  }
+/*
+  ul.webRatesTicker > li:hover {
+
+    -webkit-transform-origin: 50% 100%;
+    -moz-transform-origin: 50% 100%;
+    -ms-transform-origin: 50% 100%;
+    -o-transform-origin: 50% 100%;
+    transform-origin: 50% 100%;
+
+    -webkit-transform: translateY(0%) rotateX(0deg);
+    -moz-transform: translateY(0%) rotateX(0deg);
+    -ms-transform: translateY(0%) rotateX(0deg);
+    -o-transform: translateY(0%) rotateX(0deg);
+    transform: translateY(0%) rotateX(0deg);
+  }
+  */
+  ul.webRatesTicker > li {
+    background-color: rgba(168, 107, 104, 0.98);
+    background-color: rgba(60, 97, 69, 0.95);
+    font-family: monospace, "Economica-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    /* user agent defaults to kill */
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0px;
+    margin: 0px;
+    position: relative;
+    z-index: 200;
+
+    background: rgb(112, 178, 65);
+    background: rgba(112, 178, 65, 0.75);
+
+    border-bottom: solid #000000 1px;
+    border-radius: 5px;
+
+    padding: 5px 5px 5px 5px;
+
+    -webkit-box-shadow: 10px 0 0 3px rgba(167, 253, 85,0.75);
+    -moz-box-shadow: 10px 0 0 3px rgba(167, 253, 85,0.75);
+    -ms-box-shadow: 10px 0 0 3px rgba(167, 253, 85,0.75);
+    -o-box-shadow: 10px 0 0 3px rgba(167, 253, 85,0.75);
+    box-shadow: 10px 0 0 3px rgba(167, 253, 85, 0.75);
+
+    -webkit-box-shadow: 0 3px 10px 0 rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 3px 10px 0 rgba(0,0,0,0.75);
+    -ms-box-shadow: 0 3px 10px 0 rgba(0,0,0,0.75);
+    -o-box-shadow: 0 3px 10px 0 rgba(0,0,0,0.75);
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.75);
+
+    text-shadow: 2px 2px 8px #000000;
+
+    transition: all 1.5s;  /* REMOVE THAT IN THE UL IF THIS WORKS */
+  }
+    </style>
+  </head>
+  <body>
+    <div class="header">&nbsp;</div>
+
+
+    <header class="sticky">
+      <span class="menu-left">
+       <a href="http://goo.gl/c7ClX8">
+        <svg  width="32" height="32" viewBox="0 0 32 32" fill="#FFFFFF">
+          <use xlink:href="svg/webIcon-aGeneral.svg#webIcon-stack"></use>
+          IE
+        </svg>
+       </a>
+      </span>
+      <span>WEBer Atelier</span>
+      <!--
+      <svg  width="32" height="32" viewBox="0 0 32 32">
+        <use xlink:href="svg/webIcon-aGeneral.svg#webIcon-compass"></use>
+      </svg>
+      <svg  width="32" height="32" viewBox="0 0 32 32">
+        <use xlink:href="svg/webIcon-aGeneral.svg#webIcon-cogs"></use>
+      </svg>
+        -->
+    </header>
+<!--
+    <div id="webRateContainer" class="webRatesContainer" onclick="webTicker.paintRates()">
+        <div id="webRates" class="webRates" onclick="webTicker.paintRates()"></div>
+    </div>
+-->
+  <div class="content">
+
+    <div class="grid">
+      <figure class="effect-sarah">
+        <img src="img/utrecht.jpg" alt="Utrecht Conservatoire"/>
+        <figcaption>
+            <h2><span>IT</span> ~ Begins in a Synapse</h2>
+
+            <p>At the age of 10, my first program was coded in AppleTalk.<br />
+            The opportunity was due to Apple's aggressive discounts for educational institutions and Grandpa's lugging a behemoth Apple II home from the University for his own studies. Delving into sprites and linear flow, I constructed a labyrinth game.<br />
+            The fruition is due to creativity and motivation.</p>
+          <a href="javascript: void(0);" onclick="return false;">View more</a>
+        </figcaption>
+      </figure>
+
+      <figure class="webFX-textBlack effect-sarah">
+        <img class="webGeo-map" src="img/mercator_globe.jpg" alt="Gerardus Mercator was a cartographer, philosopher and mathematician. He is best known for his work in cartography, in particular the world map of 1569 based on a new projection which represented sailing courses of constant bearing as straight lines."/>
+        <figcaption>
+          <!--object data="svg/webIcon-earth.svg" type="image/svg+xml" class="webIcon" width="32" height="32"></object-->
+          <h2><span>Light</span> GeoLocation
+            <svg  width="32" height="32" viewBox="0 0 32 32">
+              <use xlink:href="svg/webIcon-aGeneral.svg#webIcon-target">
+                <animateTransform attributeType="xml"
+                   attributeName="transform"
+                   type="rotate"
+                   from="0 16 16"
+                   to="360 16 16"
+                   dur="4s"
+                   repeatCount="indefinite"/>
+              </use>
+            </svg>
+          </h2>
+          <p class="webGeo-autoCanvas">
+<!--
+                  <span class="webGeo-error">
+                  For a simple static rendering of your current location, simply click this image.</span>
+                  <br/>
+                  Longitude : <span class="webGeo-long"></span><br/>
+                  Latitude : <span class="webGeo-lat"></span><br/>
+                  Accuracy : <span class="webGeo-accuracy"></span><br/>
+                  Altitude : <span class="webGeo-altitude"></span><br/>
+                  Accuracy : <span class="webGeo-altAccuracy"></span><br/>
+                  Speed : <span class="webGeo-speed"></span><br/>
+                  Heading : <span class="webGeo-heading"></span><br/>
+                  Time : <span class="webGeo-time"></span><br/>
+-->
+          </p>
+          <a href="javascript: void(0);" onclick="webCarto.getNew();">View more</a>
+        </figcaption>
+      </figure>
+
+     </div>
+
+
+    <div class="grid">
+      <figure class="effect-sarah" ng-controller="CurrencyCtrl as curs">
+        <img src="img/brass_teller.jpg" alt="A room with a view."/>
+        <figcaption>
+          <div>
+            <h2><span>For€X</span>change</h2>
+
+            <ul class="webRatesTicker">
+              <li ng-repeat="cur in curs.currencies" ng-show="curs.showInList(cur)">{{cur.cd}}
+                  <span style="float:right;">{{cur.sym}} {{cur.cl | number}}{{(cur.cl==cur.op)?'&hArr;':(cur.cl>cur.op)?'&uarr;':'&darr;'}}</span><br/> {{cur.nm}} </li>
+            </ul>
+             Quotations {{curs.timestamp | date:"yyyy MMM dd"}}: provided without warranty. Project page for this implementation, available as
+             it progresses.
+          </div>
+          <a href="javascript: void(0);" onclick="return false;">View more</a>
+        </figcaption>
+      </figure>
+
+      <figure class="effect-lily">
+        <img src="img/rue_pierre_chausson.jpg" alt="A room with a view."/>
+          <figcaption>
+            <div>
+              <h2>Angular <span>Currencies</span></h2>
+              <p>Let's try some databinding.</p>
+              <p>{{cd}}: {{nm}}</p>
+            </div>
+            <a href="javascript: void(0);" onclick="return false;">View more</a>
+            </figcaption>
+        </figure>
+    </div>
+
+
+    <div class="grid">
+      <figure class="effect-lily">
+        <img src="img/rue_pierre_chausson.jpg" alt="Je chantes sur mon chemin."/>
+        <figcaption>
+          <div>
+            <h2><span>Plethora</span> of Languages</h2>
+            <p>Spoken languages and programming syntax refine with use. Like riding a bike, you never truly forget. Two weeks in France and it returns.</p>
+            <p></p>
+          </div>
+          <a href="javascript: void(0);" onclick="return false;">View more</a>
+        </figcaption>
+      </figure>
+      <figure class="effect-lily">
+        <img src="img/paris.jpg" alt="Antwerp, March 2013"/>
+        <figcaption>
+          <div>
+            <h2><span>Plethora</span> of Languages</h2>
+            <p>Spoken languages and programming syntax refine with use. Like riding a bike, you never truly forget. Two weeks in France and it returns.</p>
+            <p></p>
+          </div>
+          <a href="javascript: void(0);" onclick="return false;">View more</a>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+
+  </body>
+<!-- notes:
+nice svg animation library http://alexk111.github.io/SVG-Morpheus/
+scrolls for RWD https://www.airbnb.com/berlin-economic-impact
+geolocation accuracy and service providers http://www.andygup.net/html5-geolocation-api-%E2%80%93-how-accurate-is-it-really/
+-->
 </html>
+
