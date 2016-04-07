@@ -366,6 +366,7 @@ span.menu-left {
       font-size: 36px; } }
 
 .post-content {
+  text-align: left;
   margin-bottom: 30px; }
   .post-content h2 {
     font-size: 32px; }

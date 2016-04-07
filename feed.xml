@@ -4,11 +4,198 @@
     <title>WEBer Atelier</title>
     <description>Bullocks, I can&#39;t get any satisfaction.#end of line
 </description>
-    <link>http://kedweber.github.io/</link>
-    <atom:link href="http://kedweber.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Mar 2016 13:25:44 +0100</pubDate>
-    <lastBuildDate>Thu, 24 Mar 2016 13:25:44 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Apr 2016 08:56:46 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 08:56:46 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Unity3D Importing Assets</title>
+        <description>&lt;h1 id=&quot;unity3d-assets---fast-and-dirty&quot;&gt;UNITY3D Assets - Fast and Dirty&lt;/h1&gt;
+
+&lt;p&gt;Assets created outside of Unity must be brought in to Unity by having the file either saved directly into the “Assets” 
+folder of your project, or copied into that folder. For many common formats, you can save your source file directly 
+into your project’s Assets folder and Unity will be able to read it. Unity will notice when you save new changes to the 
+file and will re-import as necessary.&lt;/p&gt;
+
+&lt;p&gt;When you create a Unity Project, you are creating a folder named after your project which contains the following subfolders:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MyUnityProject
+    &lt;ul&gt;
+      &lt;li&gt;Assets  &amp;lt;——&lt;/li&gt;
+      &lt;li&gt;Library&lt;/li&gt;
+      &lt;li&gt;obj&lt;/li&gt;
+      &lt;li&gt;ProjectSettings&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Assets folder is where you should save or copy files that you want to use in your project.&lt;/p&gt;
+
+&lt;p&gt;The contents of the Project Window in Unity shows the items in your Assets folder. So if you save or copy a file to your 
+Assets folder, it will be imported and become visible in your Project Window.&lt;/p&gt;
+
+&lt;p&gt;Unity will automatically detect files as they are added to Assets folder, or if they are modified. When you put any asset 
+into your Assets folder, you will see the asset appear in your Project View.&lt;/p&gt;
+
+&lt;p&gt;If you drag a file into Unity’s Project Window from your computer (eg, from the Finder on Mac, or from Explorer on Windows), 
+it will be copied into your Assets folder, and will appear in the Project window.&lt;/p&gt;
+
+&lt;p&gt;The items you see in your Project window represent (in most cases) actual files on your computer, and if you delete 
+them within Unity, you are deleting them from your computer too.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;above image&lt;/em&gt; shows an example of a few  le and folders inside the Assets folder of a Unity project. You can create 
+as many folders as you like and use them to organise your Assets.&lt;/p&gt;
+
+&lt;p&gt;You’ll notice in the image above that there are .meta  les listed in the file system, but not visible in Unity’s Project Window. 
+Unity creates these .meta files for each asset and folder, but they are hidden by default, so you may not see them in your Explorer/Finder either.&lt;/p&gt;
+
+&lt;p&gt;They contain important information about how the asset is used in the project and they must stay with the asset 
+file they relate to, so if you move or rename an asset file in Explorer/Finder, you must also move/rename the meta file to match.&lt;/p&gt;
+
+&lt;p&gt;The simplest way to safely move or rename your assets is to always do it from within Unity’s project folder. 
+This way, Unity will automatically move or rename the corresponding meta file. If you like, you can read more about .meta files 
+and what goes on behind-the-scenes during the import process.&lt;/p&gt;
+
+&lt;p&gt;If you want to bring collections of assets into your project, you can use Asset Packages. See Asset Packages for more details.&lt;/p&gt;
+
+&lt;h2 id=&quot;common-types-of-assets&quot;&gt;Common Types of Assets&lt;/h2&gt;
+
+&lt;h3 id=&quot;image-files&quot;&gt;Image Files&lt;/h3&gt;
+&lt;p&gt;Most common image file types are supported, such as BMP, TIF, TGA, JPG, and PSD. If you save your layered Photoshop (.psd) files 
+into your Assets folder, they will be imported as flattened images. You can find out more about importing images with alpha channels 
+from photoshop, or importing your images as sprites.&lt;/p&gt;
+
+&lt;h3 id=&quot;d-model-files&quot;&gt;3D Model Files&lt;/h3&gt;
+&lt;p&gt;If you save your 3D files from most common 3D software packages in their native format (eg, .max, .blend, .mb, .ma) 
+into your Assets folder, they will be imported by calling back to your 3D package’s FBX export plugin (*). Alternatively 
+you can export as an FBX from your 3D app into your Unity project. Read more about importing 3D files from your 3D app.&lt;/p&gt;
+
+&lt;h3 id=&quot;meshes-and-animations&quot;&gt;Meshes and Animations&lt;/h3&gt;
+&lt;p&gt;Whichever 3D package you are using, Unity will import the meshes and animations from each file. For a list of applications that are 
+supported by Unity, please see this page.&lt;/p&gt;
+
+&lt;p&gt;Your mesh file does not need to have an animation to be imported. If you do use animations, you have your choice of importing all 
+animations from a single file, or importing separate files, each with one animation. 
+For more information about importing animations, please see of the Unity manual.&lt;/p&gt;
+
+&lt;h3 id=&quot;audio-files&quot;&gt;Audio Files&lt;/h3&gt;
+&lt;p&gt;If you save uncompressed audio files into your Assets folder, they will be imported according to the compression 
+settings specified. Read more about importing audio files.&lt;/p&gt;
+
+&lt;h3 id=&quot;miscellaneous-asset-types&quot;&gt;Miscellaneous Asset Types&lt;/h3&gt;
+&lt;p&gt;In all cases, your original source file is never modified by Unity, even though within Unity you can often choose between various ways 
+to compress, modify, or otherwise process the asset. The import process reads your source file, and creates a game-ready representation 
+of your asset internally, matching your chosen import settings. If you modify the import settings for an asset, or make a change to the 
+source file in the Asset folder, will cause Unity to re-import the asset again to reflect your new changes.&lt;/p&gt;
+
+&lt;p&gt;Note: Importing native 3D formats requires the 3D application to be installed on the same computer as Unity. This is because Unity uses 
+the 3D application’s FBX exporter plug-in to read the file. Alternatively, you can directly export as FBX from your application and save 
+into the Projects folder.&lt;/p&gt;
+
+&lt;h1 id=&quot;importing-settings&quot;&gt;Importing Settings&lt;/h1&gt;
+
+&lt;p&gt;Each type of asset that Unity supports has a set of Import Settings, which affect how the asset appears or behaves. To view an asset’s 
+import settings, select the asset in the Project View. The import settings for this asset will appear in the Inspector. The options that 
+are displayed will vary depending on the type of asset that is selected.&lt;/p&gt;
+
+&lt;p&gt;For example, the import settings for an image will allow you to choose whether it’s imported as a texture, a 2D sprite, or a normal map. 
+The import settings for an FBX file allow you to adjust the scale, generate normals or lightmap coordinates, and split &amp;amp; trim animation 
+clips defined in the file.&lt;/p&gt;
+
+&lt;p&gt;For other asset types, the import settings will look different. The various settings you see will relate to the type of asset selected. 
+Here’s an example of an Audio asset, with its related import settings shown in the inspector.&lt;/p&gt;
+
+&lt;p&gt;If you are developing a cross-platform project, you can override the “default” settings and assign different import settings on a 
+per-platform basis.&lt;/p&gt;
+
+&lt;h2 id=&quot;importing-the-asset-store&quot;&gt;Importing the Asset Store&lt;/h2&gt;
+
+&lt;p&gt;The Unity Asset Store is home to a growing library of free and commercial assets created both by Unity Technologies and also members 
+of the community. A wide variety of assets is available, covering everything from textures, models and animations to whole project 
+examples, tutorials and Editor extensions. The assets are accessed from a simple interface built into the Unity Editor and are 
+downloaded and imported directly into your project.&lt;/p&gt;
+
+&lt;p&gt;Unity users can become publishers on Asset Store, and sell content they have created.&lt;/p&gt;
+
+&lt;p&gt;You can open the Asset Store window by selecting Window-&amp;gt;AssetStore from the main menu. On your first visit, you will be prompted 
+to create a free user account which you will use to access the Store subsequently.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;photo needed&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;1   To the right of these are buttons for viewing the Download Manager and for viewing the current contents of your shopping cart.
+2   The Download Manager allows you to view the packages you have already bought and also to find and install any updates. 
+Additionally, the standard packages supplied with Unity can be viewed and added to your project with the same interface.&lt;/p&gt;
+
+&lt;h2 id=&quot;location-of-downloaded-asset-files&quot;&gt;Location of Downloaded Asset Files&lt;/h2&gt;
+
+&lt;p&gt;You will rarely, if ever, need to access the files downloaded from the Asset Store directly. However, if you do need to, you can 
+find them in the following Windows directory:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;~/Library/Unity/Asset Store&lt;/code&gt; and then on the Mac and in:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;C:\Users\accountName\AppData\Roaming\Unity\Asset Store&lt;/code&gt; …on Windows.&lt;/p&gt;
+
+&lt;p&gt;These folders contain subfolders that correspond to particular Asset Store vendors - the actual asset  les are contained in the 
+appropriate subfolders.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Apr 2016 17:00:37 +0200</pubDate>
+        <link>http://localhost:4000/articles/2016/tech/unity-import-assets</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016/tech/unity-import-assets</guid>
+        
+        <category>unity3d</category>
+        
+        <category>3D</category>
+        
+        <category>design</category>
+        
+        <category>tutorial</category>
+        
+        <category>programming</category>
+        
+        <category>gaming</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>Urban Agriculture in Confined Spaces - Part I</title>
+        <description>&lt;h1 id=&quot;reactjs-development&quot;&gt;Reactjs Development&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;div id=&quot;root&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;/res/js/react-dom-0.14.7.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/res/js/react-game.jsx&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Fri, 25 Mar 2016 16:00:37 +0100</pubDate>
+        <link>http://localhost:4000/articles/2016/tech/react-game</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016/tech/react-game</guid>
+        
+        <category>reactjs</category>
+        
+        <category>gaming</category>
+        
+        <category>webdevelopment</category>
+        
+        <category>javascript</category>
+        
+        <category>DOM</category>
+        
+        <category>programming</category>
+        
+        <category>gaming</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
     
       <item>
         <title>Urban Agriculture in Confined Spaces - Part I</title>
@@ -45,8 +232,8 @@ a father.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 16 Mar 2016 06:00:37 +0100</pubDate>
-        <link>http://kedweber.github.io/agriculture/ecology/growing-in-confined-spaces</link>
-        <guid isPermaLink="true">http://kedweber.github.io/agriculture/ecology/growing-in-confined-spaces</guid>
+        <link>http://localhost:4000/articles/2016/agriculture/growing-in-confined-spaces</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016/agriculture/growing-in-confined-spaces</guid>
         
         <category>agriculture</category>
         
@@ -54,8 +241,6 @@ a father.&lt;/p&gt;
         
         
         <category>agriculture</category>
-        
-        <category>ecology</category>
         
       </item>
     
@@ -77,13 +262,11 @@ a father.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 15 Mar 2016 22:00:37 +0100</pubDate>
-        <link>http://kedweber.github.io/jekyll/update/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://kedweber.github.io/jekyll/update/welcome-to-jekyll</guid>
+        <link>http://localhost:4000/articles/2016/jekyll/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016/jekyll/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
