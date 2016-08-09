@@ -1,0 +1,2152 @@
+[
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/4485519",
+    "webSellingCopy": "Plano Speed Office Papier eignet sich bestens für den internen Gebrauch – zum Beispiel für den Druck von internen Schreiben, E-Mails und Kundenunterlagen.",
+    "vikingLegacySKU": "PLANOSPEED",
+    "unitOfMeasure": "Pack",
+    "webSubHeading": "Wenn es schnell gehen soll...",
+    "price": {
+      "alternateChannelPrice": 3.948,
+      "seoFormattedValue": "3.29",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 3.29,
+      "formattedAlternateChannelPrice": "€ 3,95",
+      "formattedValue": "€ 3,29"
+    },
+    "productDescriptions": [
+      "Plano Speed Papier 97737. Umweltbewusstes, preiswertes Papier für den täglichen Einsatz. Geeignet für Tintenstrahldrucker, Laserdrucker und Kopierer. Gute Laufeigenschaften.",
+      "Weißegrad: 146 CIE. Gewicht: 80 g/qm. Format: DIN A4. Farbe: weiß. Packung: 500 Blatt."
+    ],
+    "title": "PlanoSpeed Universal Kopierpapier A4 80 g/m² Weiß 500 Blatt",
+    "brandDescription": "PlanoSpeed",
+    "attributes": [
+      {
+        "value": "Weiß",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Zweiseitig nutzbar",
+        "displayName": "Fertigkeiten",
+        "key": "Features"
+      },
+      {
+        "value": "A4",
+        "displayName": "Format",
+        "key": "Format"
+      },
+      {
+        "value": "Kopierer, Laser- oder Inkjetdrucker",
+        "displayName": "Geeignet für",
+        "key": "Suitable For"
+      },
+      {
+        "value": "Weiß",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "PlanoSpeed",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "210 x 297 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Papier",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "Universal",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "80 g/m²",
+        "displayName": "Papiergewicht",
+        "key": "Paperweight"
+      },
+      {
+        "value": "Kopierpapier",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "Pack",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "500 Blatt",
+        "displayName": "Verpackungsinhalt",
+        "key": "Package Contents"
+      },
+      {
+        "value": "146 CIE",
+        "displayName": "Weißegrad",
+        "key": "Degree Of Whiteness"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/3431907",
+    "webSellingCopy": "Das HP Office Paper ist ein echtes Allzweckpapier und begeistert dank ColorLock-Technologie mit brillanten Farben und tiefem Schwarz beim Drucken.",
+    "vikingLegacySKU": "36797",
+    "unitOfMeasure": "Pack",
+    "webSubHeading": "Das Hochleistungspapier für großvolumiges Drucken",
+    "price": {
+      "alternateChannelPrice": 3.228,
+      "seoFormattedValue": "2.69",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 2.69,
+      "formattedAlternateChannelPrice": "€ 3,23",
+      "formattedValue": "€ 2,69"
+    },
+    "productDescriptions": [
+      "HP Laser- und Kopierpapier Office. Hochwertiges Papier für den täglichen Einsatz. Papier mit extrem hohem Volumen für beste Laufeigenschaften in Ihrem Laserdrucker, Kopierer oder Normalpapier-Faxgerät.  Extra kräftig, um Papierstörungen in schnellen Laserdruckern und Kopierern zu vermeiden. ColorLok Technologie garantiert eine schnellere Trocknung, tieferes Schwarz und lebendigere Farben. Weißegrad: 153 CIE.",
+      "Grammatur: 80 g/qm. Format: DIN A4. Farbe: hochweiß. Packung: 500 Blatt."
+    ],
+    "title": "HP Office Kopierpapier A4 80 g/m² Weiß 500 Blatt",
+    "brandDescription": "HP",
+    "attributes": [
+      {
+        "value": "Ja",
+        "displayName": "ColorLok",
+        "key": "ColorLok"
+      },
+      {
+        "value": "Weiß",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Standard",
+        "displayName": "Farbenart",
+        "key": "Colour type"
+      },
+      {
+        "value": "A4",
+        "displayName": "Format",
+        "key": "Format"
+      },
+      {
+        "value": "Multifunktional",
+        "displayName": "Geeignet für",
+        "key": "Suitable For"
+      },
+      {
+        "value": "Y",
+        "displayName": "GreenerOffice",
+        "key": "GreenerOffice"
+      },
+      {
+        "value": "Weiß",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "HP",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "210 x 297 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Papier",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "Office",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "80 g/m²",
+        "displayName": "Papiergewicht",
+        "key": "Paperweight"
+      },
+      {
+        "value": "Kopierpapier",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Umweltbewusst",
+        "key": "Ecologically Sensitive"
+      },
+      {
+        "value": "Pack",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "500 Blatt",
+        "displayName": "Verpackungsinhalt",
+        "key": "Package Contents"
+      },
+      {
+        "value": "153 CIE",
+        "displayName": "Weißegrad",
+        "key": "Degree Of Whiteness"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/4807600",
+    "webSellingCopy": "Das Papier Everyday von Viking eignet sich super für Ausdrucke und Kopien. Auch für Skizzen ist dieses Papier ideal.",
+    "vikingLegacySKU": "8545",
+    "unitOfMeasure": "Pack",
+    "webSubHeading": "Das Papier zum Drucken, Kopieren und Schreiben.",
+    "price": {
+      "alternateChannelPrice": 4.788,
+      "seoFormattedValue": "3.99",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 3.99,
+      "formattedAlternateChannelPrice": "€ 4,79",
+      "formattedValue": "€ 3,99"
+    },
+    "productDescriptions": [
+      "Viking Everyday Kopierpapier. Qualität Standardpapier für den täglichen Gebrauch. Durch die spezielle Klimaschutzverpackung bleibt das Viking Everyday Kopierpapier feuchtigkeitsfrei und besitzt eine hohe Alterungsbeständigkeit. Viking Kopierpapier läuft aufgrund seiner hochwertigen Verarbeitung problemlos durch Ihr Normalpapierfaxgerät und natürlich durch Ihren Kopierer, sowie auch Ihren Laserdrucker.",
+      "Grammatur: 80 g/qm. Maße: 210 x 297 mm. Format: DIN A4. Farbe: weiß. Packung: 500 Blatt."
+    ],
+    "title": "Viking Everyday Kopierpapier A4 80 g/m² Weiß 500 Blatt",
+    "brandDescription": "Viking",
+    "attributes": [
+      {
+        "value": "Nein",
+        "displayName": "ColorLok",
+        "key": "ColorLok"
+      },
+      {
+        "value": "Weiß",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Standard",
+        "displayName": "Farbenart",
+        "key": "Colour type"
+      },
+      {
+        "value": "A4",
+        "displayName": "Format",
+        "key": "Format"
+      },
+      {
+        "value": "Multifunktional",
+        "displayName": "Geeignet für",
+        "key": "Suitable For"
+      },
+      {
+        "value": "Weiß",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "Viking",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "210 x 297 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Papier",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "Everyday",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "80 g/m²",
+        "displayName": "Papiergewicht",
+        "key": "Paperweight"
+      },
+      {
+        "value": "Kopierpapier",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "Pack",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "500 Blatt",
+        "displayName": "Verpackungsinhalt",
+        "key": "Package Contents"
+      },
+      {
+        "value": "147 CIE",
+        "displayName": "Weißegrad",
+        "key": "Degree Of Whiteness"
+      },
+      {
+        "value": "153 %",
+        "displayName": "Weißegrad in Prozent",
+        "key": "Brightness Percentage"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/5311602",
+    "webSellingCopy": "Sie haben viel zu drucken? Dann nehmen Sie dieses Papier! Es eignet sich hervorragend für den Druck von internen Unterlagen.",
+    "vikingLegacySKU": "5311602",
+    "unitOfMeasure": "Pack",
+    "webSubHeading": "Ein Papier für alle Fälle.",
+    "price": {
+      "alternateChannelPrice": 2.388,
+      "seoFormattedValue": "1.99",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 1.99,
+      "formattedAlternateChannelPrice": "€ 2,39",
+      "formattedValue": "€ 1,99"
+    },
+    "productDescriptions": [
+      "Sie haben viel zu drucken? Dann nehmen Sie dieses Papier! Es eignet sich hervorragend für den Druck von internen Unterlagen.",
+      "Grammatur: 80 g/qm. Format: DIN A4. 240 Packungen/Europalette. Packung: 500 Blatt."
+    ],
+    "title": "niceday Kopierpapier A4 80 g/m² Weiß 500 Blatt",
+    "brandDescription": "niceday",
+    "attributes": [
+      {
+        "value": "Weiß",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "A4",
+        "displayName": "Format",
+        "key": "Format"
+      },
+      {
+        "value": "Kopierer, Laserdrucker, Inkjetdrucker",
+        "displayName": "Geeignet für",
+        "key": "Suitable For"
+      },
+      {
+        "value": "Weiß",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "niceday",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "210 x 297 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Paper",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "80 g/m²",
+        "displayName": "Papiergewicht",
+        "key": "Paperweight"
+      },
+      {
+        "value": "Kopierpapier",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "Pack",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "500 Blatt",
+        "displayName": "Verpackungsinhalt",
+        "key": "Package Contents"
+      },
+      {
+        "value": "147 CIE",
+        "displayName": "Weißegrad",
+        "key": "Degree Of Whiteness"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/4067112",
+    "webSellingCopy": "Der Epson WorkForce WF-2010W Tintenstrahldrucker ist kompakt und benötigt nur eine kleine Stellfläche. Er ist zuverlässig und ideal für den Druck von allen wichtigen Geschäftsdokumenten in kleinen Büros und Heimbüros.",
+    "vikingLegacySKU": "4067112",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Kompakt und zuverlässig",
+    "price": {
+      "alternateChannelPrice": 55.188,
+      "seoFormattedValue": "45.99",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 45.99,
+      "formattedAlternateChannelPrice": "€ 55,19",
+      "formattedValue": "€ 45,99"
+    },
+    "productDescriptions": [
+      "Epson Drucker Workforce WF-2010W. Der ideale Drucker für kleine Büros. Mit Ethernet- und Wi-Fi-Schnittstelle und separaten XL-Tintenpatronen. Dank der schnell trocknenden Epson DURABrite Ultra Ink im Epson WorkForce WF-2010W sind Ihre Business-Dokumente wisch- und wasserfest und können sofort mit einem Textmarker bearbeitet werden. Die Tintenpatronen sind auch in XL-Größe erhältlich. Diese sparen zusätzlich Geld, da damit bis zu 2,5 mehr Seiten gedruckt werden können."
+    ],
+    "title": "Epson WF 2010W Tintenstrahldrucker",
+    "brandDescription": "Epson",
+    "attributes": [
+      {
+        "value": "USB 2.0",
+        "displayName": "Anschlüsse",
+        "key": "Ports"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Bluetooth",
+        "key": "Bluetooth"
+      },
+      {
+        "value": "Manuell",
+        "displayName": "Doppelseitiger Druck (Duplex)",
+        "key": "Double-sided Print"
+      },
+      {
+        "value": "5.760 x 1.440 dpi",
+        "displayName": "Druckauflösung",
+        "key": "Print Resolution"
+      },
+      {
+        "value": "18 ppm",
+        "displayName": "Druckgeschwindigkeit (Farbe)",
+        "key": "Print Speed (Colour)"
+      },
+      {
+        "value": "34 ppm",
+        "displayName": "Druckgeschwindigkeit (S/W)",
+        "key": "Print Speed (B+W)"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Ethernet",
+        "key": "Ethernet"
+      },
+      {
+        "value": "Drucken",
+        "displayName": "Funktionen",
+        "key": "Functions"
+      },
+      {
+        "value": "1 Jahr(e)",
+        "displayName": "Garantielaufzeit",
+        "key": "Warranty Period"
+      },
+      {
+        "value": "3200 g",
+        "displayName": "Gewicht",
+        "key": "Weight"
+      },
+      {
+        "value": "18 ppm",
+        "displayName": "Kopiergeschwindigkeit (Farbe)",
+        "key": "Copy Speed (Colour)"
+      },
+      {
+        "value": "12 W",
+        "displayName": "Leistung",
+        "key": "Power"
+      },
+      {
+        "value": "WorkForce WF-2010W Tintenstrahldrucker, Separate Einzelpatronen, Stromkabel, Software und Bedienungsanleitung (CD), Garantiedokument, Wi-Fi/Netzwerkanleitung",
+        "displayName": "Lieferumfang",
+        "key": "Included in Delivery"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "Epson",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "39,2 x 26,4 x 14,8 cm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "216 mm x 356 mm",
+        "displayName": "Maximale Druckgröße",
+        "key": "Maximum Print Size"
+      },
+      {
+        "value": "WF 2010W",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "3000 Seiten/Monat",
+        "displayName": "Monatliches Druckvolumen",
+        "key": "Print Volume"
+      },
+      {
+        "value": "100 Blatt",
+        "displayName": "Papierkapazität (maximal)",
+        "key": "Paper Capacity"
+      },
+      {
+        "value": "Nein",
+        "displayName": "PictBridge",
+        "key": "PictBridge"
+      },
+      {
+        "value": "Tintenstrahldrucker",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "USB 2.0, Ethernet, WLAN",
+        "displayName": "Schnittstellen",
+        "key": "Interface"
+      },
+      {
+        "value": "Win® 7, 8, Vista, XP,Mac OS 10.6+,",
+        "displayName": "Systemvoraussetzungen",
+        "key": "System Requirements"
+      },
+      {
+        "value": "Ja",
+        "displayName": "USB",
+        "key": "USB"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "IEEE 802.11b/g/n",
+        "displayName": "Wi-Fi standard",
+        "key": "Wi-Fi standard"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/6904224",
+    "webSellingCopy": "Das MFC-J4620DW ist das optimale Gerät für alle anspruchsvollen Aufgaben am Arbeitsplatz.",
+    "vikingLegacySKU": "6904224",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Drucken Sie flexibel, schnell und hochwertig",
+    "price": {
+      "alternateChannelPrice": 208.8,
+      "seoFormattedValue": "174.00",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 174,
+      "formattedAlternateChannelPrice": "€ 208,80",
+      "formattedValue": "€ 174,00"
+    },
+    "productDescriptions": [
+      "Mit Druckgeschwindigkeiten von bis zu 20 Seiten/Min. in S/W und 18 Seiten/Min. in Farbe (gemäß ISO/IEC 24734) drucken Sie mit dem MFCJ4620DW vergleichbar schnell wie mit Lasergeräten. Im Farbdruck sogar mit einem Geschwindigkeitsvorteil von bis zu 50% gegenüber vielen Farblaser-Multifunktionsgeräten* (mit Multipass-Drucktechnologie)."
+    ],
+    "title": "Brother MFC-J4620DW 4-in-1 Tintenstrahldrucker",
+    "brandDescription": "Brother",
+    "attributes": [
+      {
+        "value": "USB 2.0 Hi-Speed​​, NFC, 802.11b / g / n (WLAN) and 10/100 BaseTX (LAN)",
+        "displayName": "Anschlüsse",
+        "key": "Ports"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Automatischer Dokumenteneinzug (maximal)",
+        "key": "Automatic Document Feeder"
+      },
+      {
+        "value": "Touchscreen",
+        "displayName": "Bildschirmtyp",
+        "key": "Display Screen Type"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Bluetooth",
+        "key": "Bluetooth"
+      },
+      {
+        "value": "LCD",
+        "displayName": "Display",
+        "key": "Display"
+      },
+      {
+        "value": "Automatisch",
+        "displayName": "Doppelseitiger Druck (Duplex)",
+        "key": "Double-sided Print"
+      },
+      {
+        "value": "6.000 x 1.200 dpi",
+        "displayName": "Druckauflösung",
+        "key": "Print Resolution"
+      },
+      {
+        "value": "20 ppm",
+        "displayName": "Druckgeschwindigkeit (Farbe)",
+        "key": "Print Speed (Colour)"
+      },
+      {
+        "value": "22 ppm",
+        "displayName": "Druckgeschwindigkeit (S/W)",
+        "key": "Print Speed (B+W)"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Ethernet",
+        "key": "Ethernet"
+      },
+      {
+        "value": "200",
+        "displayName": "Faxspeicherkapazität",
+        "key": "Fax Memory"
+      },
+      {
+        "value": "14.4 Kbps",
+        "displayName": "Fax-übertragungsgeschwindigkeit",
+        "key": "Fax Transferrate"
+      },
+      {
+        "value": "Drucken, Scannen, Kopieren, Faxen",
+        "displayName": "Funktionen",
+        "key": "Functions"
+      },
+      {
+        "value": "Brother",
+        "displayName": "Garantieanbieter",
+        "key": "Warranty Manufacturer"
+      },
+      {
+        "value": "Herstellergarantie",
+        "displayName": "Garantieart",
+        "key": "Warranty Type"
+      },
+      {
+        "value": "2 Jahre",
+        "displayName": "Garantielaufzeit",
+        "key": "Warranty Period"
+      },
+      {
+        "value": "9.500 g",
+        "displayName": "Gewicht",
+        "key": "Weight"
+      },
+      {
+        "value": "9 ppm",
+        "displayName": "Kopiergeschwindigkeit (Farbe)",
+        "key": "Copy Speed (Colour)"
+      },
+      {
+        "value": "12 ppm",
+        "displayName": "Kopiergeschwindigkeit (S/W)",
+        "key": "Copy Speed (B+W)"
+      },
+      {
+        "value": "32 W",
+        "displayName": "Leistung",
+        "key": "Power"
+      },
+      {
+        "value": "4 Starterkartusche, Treiber für Windows und Mac, Installationsanleitung, Benutzerhandbuch (CD-ROM), Netzkabel, Fax Kabel",
+        "displayName": "Lieferumfang",
+        "key": "Included in Delivery"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "Brother",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "48 x 29 x 18,8 cm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "297 mm x 420 mm",
+        "displayName": "Maximale Druckgröße",
+        "key": "Maximum Print Size"
+      },
+      {
+        "value": "MFC-J4620DW",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "150 Blatt",
+        "displayName": "Papierkapazität (maximal)",
+        "key": "Paper Capacity"
+      },
+      {
+        "value": "Ja",
+        "displayName": "PictBridge",
+        "key": "PictBridge"
+      },
+      {
+        "value": "4-in-1 Tintenstrahldrucker",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "1.200 x 2.400 dpi",
+        "displayName": "Scanauflösung",
+        "key": "Scan Resolution"
+      },
+      {
+        "value": "USB 2.0, WiFi",
+        "displayName": "Schnittstellen",
+        "key": "Interface"
+      },
+      {
+        "value": "9.3 cm (3.7\")",
+        "displayName": "Sichtbare Bildschirmdiagonale",
+        "key": "Viewable Screen Diagonal"
+      },
+      {
+        "value": "128 MB",
+        "displayName": "Speicherkapazität",
+        "key": "Memory Capacity Max"
+      },
+      {
+        "value": "Linux, MS Windows XP  MS Windows XP Professional, MS Windows Server 2008 R2 x64 Edition, Apple Mac OS X 10.8.x, Windows 8, , MS Windows Server 2012 x64 Edition, Apple Mac OS X 10.7.5, MS Windows Server 2003 (32/64-bits), MS Windows Server 2008 (32/64-bits), MS Windows Server 2012 R2 x64 Edition, Apple Mac OS X 10.9.x, MS Windows Vista (32/64 bits), MS Windows 7 (32/64 bits)",
+        "displayName": "Systemvoraussetzungen",
+        "key": "System Requirements"
+      },
+      {
+        "value": "Tintenstrahl",
+        "displayName": "Technologie",
+        "key": "Technology"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Touchscreen",
+        "key": "Touchscreen"
+      },
+      {
+        "value": "Ja",
+        "displayName": "USB",
+        "key": "USB"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "IEEE 802.11b/g/n",
+        "displayName": "Wi-Fi standard",
+        "key": "Wi-Fi standard"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/7274117",
+    "webSellingCopy": "Mit dem HP OfficeJet 7510 WF All-in-One A3 Drucker erstellen Sie professionelle Unterlagen ganz einfach im Büro.",
+    "vikingLegacySKU": "7274117",
+    "approvalStatus": "APPROVED",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Exzellente Qualität drucken",
+    "price": {
+      "alternateChannelPrice": 124.8,
+      "seoFormattedValue": "104.00",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 104,
+      "formattedAlternateChannelPrice": "€ 124,80",
+      "formattedValue": "€ 104,00"
+    },
+    "productDescriptions": [
+      "Sorgen Sie dafür, dass Ihr Unternehmen durch fantastische, kostengünstige Großformat-Farbdrucke überzeugt. Mit dem HP OfficeJet 7510 WF und seiner Vielzahl an Funktionen arbeiten Sie schneller, produktiver und dynamischer. Erstellen Sie professionelle Marketingunterlagen – direkt im Büro."
+    ],
+    "title": "HP OfficeJet 7510 4-in-1 Tintenstrahldrucker",
+    "brandDescription": "HP",
+    "attributes": [
+      {
+        "value": "Ja",
+        "displayName": "Automatischer Dokumenteneinzug (maximal)",
+        "key": "Automatic Document Feeder"
+      },
+      {
+        "value": "LCD",
+        "displayName": "Bildschirmtyp",
+        "key": "Display Screen Type"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Bluetooth",
+        "key": "Bluetooth"
+      },
+      {
+        "value": "LCD",
+        "displayName": "Display",
+        "key": "Display"
+      },
+      {
+        "value": "Automatisch",
+        "displayName": "Doppelseitiger Druck (Duplex)",
+        "key": "Double-sided Print"
+      },
+      {
+        "value": "4.800 x 1.200 dpi",
+        "displayName": "Druckauflösung",
+        "key": "Print Resolution"
+      },
+      {
+        "value": "8 ppm",
+        "displayName": "Druckgeschwindigkeit (Farbe)",
+        "key": "Print Speed (Colour)"
+      },
+      {
+        "value": "15 ppm",
+        "displayName": "Druckgeschwindigkeit (S/W)",
+        "key": "Print Speed (B+W)"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Ethernet",
+        "key": "Ethernet"
+      },
+      {
+        "value": "Black",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "100 Blatt",
+        "displayName": "Faxspeicherkapazität",
+        "key": "Fax Memory"
+      },
+      {
+        "value": "33.6 Kbps",
+        "displayName": "Fax-übertragungsgeschwindigkeit",
+        "key": "Fax Transferrate"
+      },
+      {
+        "value": "Drucken, Scannen, Kopieren, Faxen",
+        "displayName": "Funktionen",
+        "key": "Functions"
+      },
+      {
+        "value": "13020 g",
+        "displayName": "Gewicht",
+        "key": "Weight"
+      },
+      {
+        "value": "6 ppm",
+        "displayName": "Kopiergeschwindigkeit (Farbe)",
+        "key": "Copy Speed (Colour)"
+      },
+      {
+        "value": "9 ppm",
+        "displayName": "Kopiergeschwindigkeit (S/W)",
+        "key": "Copy Speed (B+W)"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "HP",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "48,3 x 61,3 x 36,6 cm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "297 mm x 420 mm",
+        "displayName": "Maximale Druckgröße",
+        "key": "Maximum Print Size"
+      },
+      {
+        "value": "OfficeJet 7510",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "800 Seiten/Monat",
+        "displayName": "Monatliches Druckvolumen",
+        "key": "Print Volume"
+      },
+      {
+        "value": "250 Blatt",
+        "displayName": "Papierkapazität (maximal)",
+        "key": "Paper Capacity"
+      },
+      {
+        "value": "4-in-1 Tintenstrahldrucker",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "1.200 x 1.200 dpi",
+        "displayName": "Scanauflösung",
+        "key": "Scan Resolution"
+      },
+      {
+        "value": "Ethernet, RJ-11, USB 2.0,Wireless LAN",
+        "displayName": "Schnittstellen",
+        "key": "Interface"
+      },
+      {
+        "value": "17.1 cm (6.8\")",
+        "displayName": "Sichtbare Bildschirmdiagonale",
+        "key": "Viewable Screen Diagonal"
+      },
+      {
+        "value": "256 MB",
+        "displayName": "Speicherkapazität",
+        "key": "Memory Capacity Max"
+      },
+      {
+        "value": "Tintenstrahl",
+        "displayName": "Technologie",
+        "key": "Technology"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Touchscreen",
+        "key": "Touchscreen"
+      },
+      {
+        "value": "Ja",
+        "displayName": "USB",
+        "key": "USB"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/3256821",
+    "webSellingCopy": "Der Topstar Bürostuhl Power Star Profi schont die Bandscheiben. Der Schreibtischstuhl sorgt für Komfort dank Bandscheibensitz mit Beckenstütze und Rückenlehne mit Lendenwirbelstütze.",
+    "vikingLegacySKU": "124982-SZ",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Schonender für die Bandscheiben.",
+    "price": {
+      "alternateChannelPrice": 130.8,
+      "seoFormattedValue": "109.00",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 109,
+      "formattedAlternateChannelPrice": "€ 130,80",
+      "formattedValue": "€ 109,00"
+    },
+    "productDescriptions": [
+      "Topstar Bürodrehstuhl Power Star Profi. Rückenlehne in Höhe und Neigung stufenlos verstellbar, breite Abdeckung des Neigegelenkes. Ergonomische Rückenlehne mit integrierter Lendenwirbelstütze, stützt den gesamten Rückenbereich. Komfort-Permanentkontaktmechanik, zur Verstellung der Rückenlehnenneigung. Stufenlos verstellbare Rückenlehnenhöhe und Sitzhöhe. Spezial-Bandscheibensitz mit Beckenstütze. Der Bezugsstoff ist aus 100% Polypropylen. Formschönes und stabiles Stahlfußkreuz verchromt. Lastabhängige gebremste Sicherheits-Doppelrollen und feststehende schwarze Kunststoff-Armlehnen sind im Lieferumfang enthalten. Die Stühle werden in Deutschland hergestellt und entsprechen der europäischen Norm EN 1335. Selbstmontage. Empfohlene Einsatzempfehlung: Intensiv, 5 - 8 Stunden/Tag. Sitzhöhe: 42 - 55 cm. Sitzbreite: 46 cm. Sitztiefe: 46 cm. Lehnenhöhe: 58 cm. Lehnenbreite: 46 cm. Farbe: schwarz.",
+      "Ergonomische Rückenlehne mit integrierter Lendenwirbelstütze",
+      "Komfort-Permanentkontaktmechanik",
+      "Bezugsstoff ist aus 100% Polypropylen",
+      "Entspricht der europäischen Norm EN 1335",
+      "Made in Germany"
+    ],
+    "title": "Topstar Bürodrehstuhl Power Star Profi Permanentkontakt Schwarz",
+    "brandDescription": "Topstar",
+    "attributes": [
+      {
+        "value": "5",
+        "displayName": "Anzahl Rollen",
+        "key": "Castor"
+      },
+      {
+        "value": "Fest",
+        "displayName": "Armlehnen",
+        "key": "Armrest"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Body Balance System",
+        "key": "Body-Balance-System"
+      },
+      {
+        "value": "460 mm",
+        "displayName": "Breite Rückenlehne",
+        "key": "Width Backrest"
+      },
+      {
+        "value": "46 cm",
+        "displayName": "Breite Sitzfläche (cm)",
+        "key": "Width Seat Area (cm)"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Echtes Leder",
+        "key": "REAL LEATHER"
+      },
+      {
+        "value": "8 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (maximal)",
+        "key": "Chair Usage (Maximum)"
+      },
+      {
+        "value": "5 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (minimal)",
+        "key": "Chair Usage (Minimum)"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Feststehende Armlehnen (optional)",
+        "key": "Lockable Armrest (Optional)"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Feststellbare Wippmechanik",
+        "key": "Lockable Rocker Mechanism"
+      },
+      {
+        "value": "Drehkreuz aus Metall",
+        "displayName": "Fußtyp",
+        "key": "Type of feet"
+      },
+      {
+        "displayName": "Garantielaufzeit",
+        "key": "Warranty Period"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "Ja",
+        "displayName": "GS geprüfte Sicherheit",
+        "key": "GS geprufte Sicherheit"
+      },
+      {
+        "value": "1040 mm",
+        "displayName": "Höhe",
+        "key": "Height"
+      },
+      {
+        "value": "Fest",
+        "displayName": "Höhenverstellbare Armlehnen",
+        "key": "Height Adjustable Armrest"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Höhenverstellbare Armlehnen (optional)",
+        "key": "Height Adjustable Armrest (Optional)"
+      },
+      {
+        "value": "580 mm",
+        "displayName": "Höhe Rückenlehne",
+        "key": "Height Back Rest"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Komfort-Wippmechanik",
+        "key": "Comfort Rocker Mechanism"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "Topstar",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "460 x 460 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Stoff",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "Permanentkontakt",
+        "displayName": "Mechanik",
+        "key": "Mechanism"
+      },
+      {
+        "value": "Power Star Profi",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Permanentkontakt",
+        "key": "Permanentkontakt"
+      },
+      {
+        "value": "Bürodrehstuhl",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Selbstmontage",
+        "key": "Self-Assembly"
+      },
+      {
+        "value": "460 mm",
+        "displayName": "Sitztiefe",
+        "key": "Depth Seat"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Sitztiefeneinstellung",
+        "key": "Seat Depth Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Spezieller Bandscheibensitz",
+        "key": "Special Intervertebral Disc Seat"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Rückenlehnenhöhe",
+        "key": "Back Height Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Rückenlehnenneigung",
+        "key": "Tilt Tension"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Sitzhöhe",
+        "key": "Seat Height Adjustment"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Synchron-Kippmechanismus",
+        "key": "Synchro Tilt"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "Winkel",
+        "displayName": "Verstellbarer Sitz",
+        "key": "Seat Adjustment"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Verstellbarer Sitzwinkel",
+        "key": "Seat Angle Adjustment"
+      },
+      {
+        "value": "Höhe",
+        "displayName": "Verstellbare Rückenlehne",
+        "key": "Back Adjustment"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Verstellbare Rückenlehnentiefe",
+        "key": "Adjustable Backrest Depth"
+      },
+      {
+        "value": "550 mm",
+        "displayName": "Verstellbare Sitzhöhe (maximal)",
+        "key": "Seat Height Adjustment (Maximum)"
+      },
+      {
+        "value": "420 mm",
+        "displayName": "Verstellbare Sitzhöhe (minimal)",
+        "key": "Seat Height Adjustment (Minimum)"
+      },
+      {
+        "value": "EN 1335",
+        "displayName": "Zugelassen nach",
+        "key": "Approved According To"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/7044592",
+    "webSellingCopy": "Der niceday Bürostuhl Ness kombiniert Sitzkomfort mit modernem Mesh-Look und einem besonders attraktiven Preis. Bis ins Detail individuell einstellbar, mit einem verchromten Fußkreuz und optionalen Armlehnen.",
+    "vikingLegacySKU": "7044592",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Der Stil und Komfort von heute zum Preis von damals",
+    "price": {
+      "alternateChannelPrice": 47.388,
+      "seoFormattedValue": "39.49",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 39.49,
+      "formattedAlternateChannelPrice": "€ 47,39",
+      "formattedValue": "€ 39,49"
+    },
+    "productDescriptions": [
+      "RS to go Bürostuhl 7044592. Farbe: schwarz.",
+      "Den passenden Stuhl um gemütlich und Gesund Ihre Arbeitsstunden zu verbringen finden Sie bestimmt in unseren Sortiment",
+      "3-5 Stunden Sitzzeit"
+    ],
+    "title": "niceday Bürodrehstühl Ness Neigbarer Sitz und Rücken Schwarz",
+    "brandDescription": "niceday",
+    "attributes": [
+      {
+        "value": "5",
+        "displayName": "Anzahl Rollen",
+        "key": "Castor"
+      },
+      {
+        "value": "Optional fixed armrests available",
+        "displayName": "Armlehnen",
+        "key": "Armrest"
+      },
+      {
+        "value": "459 mm",
+        "displayName": "Breite Rückenlehne",
+        "key": "Width Backrest"
+      },
+      {
+        "value": "44.9 cm",
+        "displayName": "Breite Sitzfläche (cm)",
+        "key": "Width Seat Area (cm)"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Echtes Leder",
+        "key": "REAL LEATHER"
+      },
+      {
+        "value": "5 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (maximal)",
+        "key": "Chair Usage (Maximum)"
+      },
+      {
+        "value": "3 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (minimal)",
+        "key": "Chair Usage (Minimum)"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Feststehende Armlehnen (optional)",
+        "key": "Lockable Armrest (Optional)"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Feststellbare Wippmechanik",
+        "key": "Lockable Rocker Mechanism"
+      },
+      {
+        "value": "Drehkreuz aus Metall",
+        "displayName": "Fußtyp",
+        "key": "Type of feet"
+      },
+      {
+        "value": "3 Jahre",
+        "displayName": "Garantielaufzeit",
+        "key": "Warranty Period"
+      },
+      {
+        "value": "Black",
+        "displayName": "Gestellfarbe",
+        "key": "Color Of Frame"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "Nein",
+        "displayName": "GS geprüfte Sicherheit",
+        "key": "GS geprufte Sicherheit"
+      },
+      {
+        "value": "103.5 cm",
+        "displayName": "Höhe (maximal) (cm)",
+        "key": "Height (Maximum) (cm)"
+      },
+      {
+        "value": "93.5 cm",
+        "displayName": "Höhe (minimal) (cm)",
+        "key": "Height (Minimum) (cm)"
+      },
+      {
+        "value": "No",
+        "displayName": "Höhenverstellbare Armlehnen",
+        "key": "Height Adjustable Armrest"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Höhenverstellbare Armlehnen (optional)",
+        "key": "Height Adjustable Armrest (Optional)"
+      },
+      {
+        "value": "533 mm",
+        "displayName": "Höhe Rückenlehne",
+        "key": "Height Back Rest"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Komfort-Wippmechanik",
+        "key": "Comfort Rocker Mechanism"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "niceday",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "449 x 448 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Stoff",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "Neigbarer Sitz und Rücken",
+        "displayName": "Mechanik",
+        "key": "Mechanism"
+      },
+      {
+        "value": "Ness",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Permanentkontakt",
+        "key": "Permanentkontakt"
+      },
+      {
+        "value": "Bürodrehstühl",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Selbstmontage",
+        "key": "Self-Assembly"
+      },
+      {
+        "value": "448 mm",
+        "displayName": "Sitztiefe",
+        "key": "Depth Seat"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Sitztiefeneinstellung",
+        "key": "Seat Depth Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Spezieller Bandscheibensitz",
+        "key": "Special Intervertebral Disc Seat"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Stapelbar",
+        "key": "Stackable"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Stufenlos verstellbare Rückenlehnenhöhe",
+        "key": "Back Height Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Rückenlehnenneigung",
+        "key": "Tilt Tension"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Sitzhöhe",
+        "key": "Seat Height Adjustment"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Synchron-Kippmechanismus",
+        "key": "Synchro Tilt"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "Winkel",
+        "displayName": "Verstellbarer Sitz",
+        "key": "Seat Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Verstellbarer Sitzwinkel",
+        "key": "Seat Angle Adjustment"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Verstellbare Rückenlehnentiefe",
+        "key": "Adjustable Backrest Depth"
+      },
+      {
+        "value": "481 mm",
+        "displayName": "Verstellbare Sitzhöhe (maximal)",
+        "key": "Seat Height Adjustment (Maximum)"
+      },
+      {
+        "value": "389 mm",
+        "displayName": "Verstellbare Sitzhöhe (minimal)",
+        "key": "Seat Height Adjustment (Minimum)"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/7223940",
+    "webSellingCopy": "Für jeden Arbeitsplatz der perfekte Stuhl - moderne, multifunktionale Design-Bürostühle farblich passend für Ihr Büro und genau auf Ihre Ansprüche abgestimmt.",
+    "vikingLegacySKU": "7223940",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Exzellenter Komfort in einem modernen Design",
+    "price": {
+      "alternateChannelPrice": 166.8,
+      "seoFormattedValue": "139.00",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 139,
+      "formattedAlternateChannelPrice": "€ 166,80",
+      "formattedValue": "€ 139,00"
+    },
+    "productDescriptions": [
+      "Der Komfort-Drehstuhl mit taillierter Netz-Rückenlehne. Eine stufenlose Sitzhöhenverstellung mit Toplift, Ergonomische taillierte Rückenlehne, über Raster-Mechanik höhenverstellbar mit integrierter Lendenwirbelstütze. Bequemer Flachsitz mit komfortabler Knierolle. Punktsynchron-Mechanik, zur Verstellung der Sitz- und Rückenlehnen-Neigung, Körpergewichtseinstellung individuell einstellbar, mehrfach arretierbar.",
+      "Inkl. höhenverstellbarer Armlehne. Neues Design-Fußkreuz Polyamid schwarz, ausgerüstet mit lastabhängig gebremsten Sicherheitsdoppelrollen für Teppichböden. Bezugsstoff: 100% Polyester."
+    ],
+    "title": "Topstar Stuhl Head Point SY Deluxe Synchron Schwarz",
+    "brandDescription": "Topstar",
+    "attributes": [
+      {
+        "value": "5",
+        "displayName": "Anzahl Rollen",
+        "key": "Castor"
+      },
+      {
+        "value": "Verstellbar",
+        "displayName": "Armlehnen",
+        "key": "Armrest"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Body Balance System",
+        "key": "Body-Balance-System"
+      },
+      {
+        "value": "500 mm",
+        "displayName": "Breite Rückenlehne",
+        "key": "Width Backrest"
+      },
+      {
+        "value": "50 cm",
+        "displayName": "Breite Sitzfläche (cm)",
+        "key": "Width Seat Area (cm)"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Echtes Leder",
+        "key": "REAL LEATHER"
+      },
+      {
+        "value": "8 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (maximal)",
+        "key": "Chair Usage (Maximum)"
+      },
+      {
+        "value": "5 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (minimal)",
+        "key": "Chair Usage (Minimum)"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Atmungsaktiv, Rückenlehne, Lendenwirbelstütze, Armlehne, Synchron-Mechanik, Mesh-Rückseite, Drehen, Integrierte Rollen",
+        "displayName": "Fertigkeiten",
+        "key": "Features"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Feststehende Armlehnen (optional)",
+        "key": "Lockable Armrest (Optional)"
+      },
+      {
+        "value": "Drehkreuz aus Metall",
+        "displayName": "Fußtyp",
+        "key": "Type of feet"
+      },
+      {
+        "value": "Garantie",
+        "displayName": "Garantieart",
+        "key": "Warranty Type"
+      },
+      {
+        "displayName": "Garantielaufzeit",
+        "key": "Warranty Period"
+      },
+      {
+        "value": "16000 g",
+        "displayName": "Gewicht",
+        "key": "Weight"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "Ja",
+        "displayName": "GS geprüfte Sicherheit",
+        "key": "GS geprufte Sicherheit"
+      },
+      {
+        "value": "1460.0 mm",
+        "displayName": "Höhe",
+        "key": "Height"
+      },
+      {
+        "value": "Verstellbar",
+        "displayName": "Höhenverstellbare Armlehnen",
+        "key": "Height Adjustable Armrest"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Höhenverstellbare Armlehnen (optional)",
+        "key": "Height Adjustable Armrest (Optional)"
+      },
+      {
+        "value": "590 mm",
+        "displayName": "Höhe Rückenlehne",
+        "key": "Height Back Rest"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "Topstar",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "500 x 460 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Kunststoff, Rückenlehne mit atmungsaktivem Netzbezug",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "Synchron",
+        "displayName": "Mechanik",
+        "key": "Mechanism"
+      },
+      {
+        "value": "Head Point SY Deluxe",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "Stuhl",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "460 mm",
+        "displayName": "Sitztiefe",
+        "key": "Depth Seat"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Sitztiefeneinstellung",
+        "key": "Seat Depth Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Rückenlehnenneigung",
+        "key": "Tilt Tension"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Sitzhöhe",
+        "key": "Seat Height Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Synchron-Kippmechanismus",
+        "key": "Synchro Tilt"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "Winkel",
+        "displayName": "Verstellbarer Sitz",
+        "key": "Seat Adjustment"
+      },
+      {
+        "value": "Höhe",
+        "displayName": "Verstellbare Rückenlehne",
+        "key": "Back Adjustment"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Verstellbare Rückenlehnentiefe",
+        "key": "Adjustable Backrest Depth"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/3075047",
+    "webSellingCopy": "Der Realspace® Karl Bürodrehstuhl in modernem, schlankem Design hat eine hohe Rückenlehne mit atmungsaktivem Netzbezug. Er ist höhenverstellbar, hat eine Synchron-Mechanik und weitere Einstellungsmöglichkeiten.",
+    "vikingLegacySKU": "3075047",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Ergonomischer Komfort, der atmungsaktiv ist und gut aussieht",
+    "price": {
+      "alternateChannelPrice": 166.8,
+      "seoFormattedValue": "139.00",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 139,
+      "formattedAlternateChannelPrice": "€ 166,80",
+      "formattedValue": "€ 139,00"
+    },
+    "productDescriptions": [
+      "RS Soho Bürostuhl 3075040. Farbe: schwarz.",
+      "Sitzhöhe 418-508 mm; Sitz 505 x 480 mm; Rückenlehne 470 x 577 mm",
+      "Verstellbare Armlehnen"
+    ],
+    "title": "rs Soho Bürostuhl Karl Synchron Schwarz",
+    "brandDescription": "rs Soho",
+    "attributes": [
+      {
+        "value": "5",
+        "displayName": "Anzahl Rollen",
+        "key": "Castor"
+      },
+      {
+        "value": "Verstellbar",
+        "displayName": "Armlehnen",
+        "key": "Armrest"
+      },
+      {
+        "value": "Einstellbare Lendenwirbelstütze. Kopfstütze optional.",
+        "displayName": "Ausführung",
+        "key": "Details"
+      },
+      {
+        "value": "450 mm",
+        "displayName": "Breite Rückenlehne",
+        "key": "Width Backrest"
+      },
+      {
+        "value": "51 cm",
+        "displayName": "Breite Sitzfläche (cm)",
+        "key": "Width Seat Area (cm)"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Echtes Leder",
+        "key": "REAL LEATHER"
+      },
+      {
+        "value": "8 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (maximal)",
+        "key": "Chair Usage (Maximum)"
+      },
+      {
+        "value": "5 Stunden/Tag",
+        "displayName": "Einsatzempfehlung (minimal)",
+        "key": "Chair Usage (Minimum)"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Feststehende Armlehnen (optional)",
+        "key": "Lockable Armrest (Optional)"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Feststellbare Wippmechanik",
+        "key": "Lockable Rocker Mechanism"
+      },
+      {
+        "value": "Drehkreuz aus Nylon",
+        "displayName": "Fußtyp",
+        "key": "Type of feet"
+      },
+      {
+        "value": "3 Jahre",
+        "displayName": "Garantielaufzeit",
+        "key": "Warranty Period"
+      },
+      {
+        "value": "Schwarz",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "Nein",
+        "displayName": "GS geprüfte Sicherheit",
+        "key": "GS geprufte Sicherheit"
+      },
+      {
+        "value": "570 mm",
+        "displayName": "Höhe",
+        "key": "Height"
+      },
+      {
+        "value": "113 cm",
+        "displayName": "Höhe (maximal) (cm)",
+        "key": "Height (Maximum) (cm)"
+      },
+      {
+        "value": "104 cm",
+        "displayName": "Höhe (minimal) (cm)",
+        "key": "Height (Minimum) (cm)"
+      },
+      {
+        "value": "Verstellbar",
+        "displayName": "Höhenverstellbare Armlehnen",
+        "key": "Height Adjustable Armrest"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Höhenverstellbare Armlehnen (optional)",
+        "key": "Height Adjustable Armrest (Optional)"
+      },
+      {
+        "value": "570 mm",
+        "displayName": "Höhe Rückenlehne",
+        "key": "Height Back Rest"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Komfort-Wippmechanik",
+        "key": "Comfort Rocker Mechanism"
+      },
+      {
+        "value": "Höhenverstellbare Armlehnen",
+        "displayName": "Lieferumfang",
+        "key": "Included in Delivery"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "rs Soho",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "510 x 450 mm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "Mesh and fabric&nbsp;",
+        "displayName": "Material",
+        "key": "Material"
+      },
+      {
+        "value": "Synchron",
+        "displayName": "Mechanik",
+        "key": "Mechanism"
+      },
+      {
+        "value": "Karl",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Permanentkontakt",
+        "key": "Permanentkontakt"
+      },
+      {
+        "value": "Bürostuhl",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Selbstmontage",
+        "key": "Self-Assembly"
+      },
+      {
+        "value": "450 mm",
+        "displayName": "Sitztiefe",
+        "key": "Depth Seat"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Sitztiefeneinstellung",
+        "key": "Seat Depth Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Spezieller Bandscheibensitz",
+        "key": "Special Intervertebral Disc Seat"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Stapelbar",
+        "key": "Stackable"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Rückenlehnenhöhe",
+        "key": "Back Height Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Rückenlehnenneigung",
+        "key": "Tilt Tension"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Stufenlos verstellbare Sitzhöhe",
+        "key": "Seat Height Adjustment"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Synchron-Kippmechanismus",
+        "key": "Synchro Tilt"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "Ja",
+        "displayName": "Verstellbarer Sitzwinkel",
+        "key": "Seat Angle Adjustment"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Verstellbare Rückenlehnentiefe",
+        "key": "Adjustable Backrest Depth"
+      },
+      {
+        "value": "490 mm",
+        "displayName": "Verstellbare Sitzhöhe (maximal)",
+        "key": "Seat Height Adjustment (Maximum)"
+      },
+      {
+        "value": "400 mm",
+        "displayName": "Verstellbare Sitzhöhe (minimal)",
+        "key": "Seat Height Adjustment (Minimum)"
+      }
+    ]
+  },
+  {
+    "imageUrl": "//static.vikingdirekt.at/is/image/odeu13/5057793",
+    "webSellingCopy": "Das LetraTag von Dymo ist ergonomisch geformt und hat ein großes Display mit 13 Zeichen. Es verfügt über eine Druckvorschau, speichert 9 Etiketten, druckt 2-zeilig und zeigt Ihnen auch Datum und Uhrzeit an.",
+    "vikingLegacySKU": "5057793",
+    "unitOfMeasure": "Stück",
+    "webSubHeading": "Liegt gut in der Hand und druckt Etiketten genau nach Ihren Vorstellungen.",
+    "price": {
+      "alternateChannelPrice": 23.988,
+      "seoFormattedValue": "19.99",
+      "currencySymbol": "€",
+      "currencyIso": "EUR",
+      "value": 19.99,
+      "formattedAlternateChannelPrice": "€ 23,99",
+      "formattedValue": "€ 19,99"
+    },
+    "productDescriptions": [
+      "Dymo Beschriftungsgerät LetraTag. 12 mm, LetraTag Bänder. 1 x 13. 195 (Symbole). 5, -. 2. Ergonomisches Design, grafisches Display, Navigationstaste,. Energieversorgung: 4 x AA Batterie, Netzanschluss vorhanden. Größe (B x T x H): 95 x 215 x 65 mm. Inkl. 12 mm Papierband, weiß. Farbe: blau.",
+      "Das LetraTag von Dymo ist ergonomisch geformt und hat ein großes Display mit 13 Zeichen. Es verfügt über eine Druckvorschau, speichert 9 Etiketten, druckt 2-zeilig und zeigt Ihnen auch Datum und Uhrzeit an."
+    ],
+    "title": "DYMO Beschriftungsgerät LetraTag ABC",
+    "brandDescription": "DYMO",
+    "attributes": [
+      {
+        "value": "Manuell",
+        "displayName": "Abschneidevorrichtung",
+        "key": "Cutting Mechanism"
+      },
+      {
+        "value": "USB 2.0",
+        "displayName": "Anschlüsse",
+        "key": "Ports"
+      },
+      {
+        "value": "Handheld",
+        "displayName": "Ausführung",
+        "key": "Details"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Autom. Numm./Mehrfachdruck (maximal)",
+        "key": "Automatic Number/Multiple Print (Maximum"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Barcodedruck",
+        "key": "Barcode Print"
+      },
+      {
+        "value": "Nein",
+        "displayName": "Batterie im Lieferumfang",
+        "key": "Battery or Battery included"
+      },
+      {
+        "value": "4 x Mignon (AA)",
+        "displayName": "Batterien",
+        "key": "Batteries"
+      },
+      {
+        "value": "LCD",
+        "displayName": "Bildschirmtyp",
+        "key": "Display Screen Type"
+      },
+      {
+        "value": "95 mm",
+        "displayName": "Breite",
+        "key": "Width"
+      },
+      {
+        "value": "12 mm",
+        "displayName": "Breite Abdruck",
+        "key": "Width Print"
+      },
+      {
+        "value": "LCD",
+        "displayName": "Display",
+        "key": "Display"
+      },
+      {
+        "value": "LCD/13",
+        "displayName": "Display (Zeichen/Zeilen)",
+        "key": "Display (Szmbols /Lines)"
+      },
+      {
+        "value": "160 dpi",
+        "displayName": "Druckauflösung",
+        "key": "Print Resolution"
+      },
+      {
+        "value": "7 ppm",
+        "displayName": "Druckgeschwindigkeit (S/W)",
+        "key": "Print Speed (B+W)"
+      },
+      {
+        "value": "5",
+        "displayName": "Druckgrößen",
+        "key": "Printing Sizes"
+      },
+      {
+        "value": "12 mm",
+        "displayName": "Druckhöhe (maximal)",
+        "key": "Print Height"
+      },
+      {
+        "value": "6",
+        "displayName": "Druckstile",
+        "key": "Print Styles"
+      },
+      {
+        "value": "4x Mignon (AA)",
+        "displayName": "Energieversorgung",
+        "key": "Power Supply"
+      },
+      {
+        "value": "Manuell",
+        "displayName": "Etikettenfreigabefunktion",
+        "key": "Label Release"
+      },
+      {
+        "value": "12 mm",
+        "displayName": "Etikettentyp",
+        "key": "Type Of Label"
+      },
+      {
+        "value": "Silber",
+        "displayName": "Farbe",
+        "key": "Colour"
+      },
+      {
+        "value": "Dymo",
+        "displayName": "Garantieanbieter",
+        "key": "Warranty Manufacturer"
+      },
+      {
+        "value": "Garantie",
+        "displayName": "Garantieart",
+        "key": "Warranty Type"
+      },
+      {
+        "value": "2 + 1 Jahre",
+        "displayName": "Garantielaufzeit",
+        "key": "Warranty Period"
+      },
+      {
+        "value": "LetraTAG-Etiketten",
+        "displayName": "Geeignet für",
+        "key": "Suitable For"
+      },
+      {
+        "value": "280 g",
+        "displayName": "Gewicht",
+        "key": "Weight"
+      },
+      {
+        "value": "280 g",
+        "displayName": "Gewicht (ohne Batterien)",
+        "key": "Weight (Without Batteries)"
+      },
+      {
+        "value": "Silber",
+        "displayName": "Grundfarbe",
+        "key": "BasicProductColour"
+      },
+      {
+        "value": "65 mm",
+        "displayName": "Höhe",
+        "key": "Height"
+      },
+      {
+        "value": "1 Arbeitstag",
+        "displayName": "Lieferzeit",
+        "key": "Delivery Time"
+      },
+      {
+        "value": "DYMO",
+        "displayName": "Marke",
+        "key": "Brand Description Country"
+      },
+      {
+        "value": "9,5 x 21,5 x 6,5 cm",
+        "displayName": "Maße",
+        "key": "Measurements"
+      },
+      {
+        "value": "2 Zeilen",
+        "displayName": "Mehrzeiliger Ausdruck (maximal)",
+        "key": "Multiline Print"
+      },
+      {
+        "value": "LetraTag",
+        "displayName": "Modell",
+        "key": "Model"
+      },
+      {
+        "value": "Optional",
+        "displayName": "Netzadapter",
+        "key": "Adapter"
+      },
+      {
+        "value": "9",
+        "displayName": "Phrasenspeicher",
+        "key": "Phrases Memeory"
+      },
+      {
+        "value": "Beschriftungsgerät LetraTag™",
+        "displayName": "Produkttyp",
+        "key": "Product Type"
+      },
+      {
+        "value": "6",
+        "displayName": "Schriftarten",
+        "key": "Fonts"
+      },
+      {
+        "value": "ABC",
+        "displayName": "Tastatur",
+        "key": "Keyboard"
+      },
+      {
+        "value": "Stück",
+        "displayName": "Verkaufseinheit",
+        "key": "Selling UOM"
+      },
+      {
+        "value": "1 Stück",
+        "displayName": "Verpackungsinhalt",
+        "key": "Package Contents"
+      }
+    ]
+  }
+]
